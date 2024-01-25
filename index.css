@@ -1,0 +1,52 @@
+body {
+    background-image: url("pullup.jpg");
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+container {
+    background: white;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: yellow
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: blanchedalmond;
+    font-weight: bold;
+    width: 100px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+
+}
+
+#increment-btn {
+    background: yellow;
+    color: black
+}
+
+#save-btn {
+    background: blue;
+}
+
+#save-el {
+    color: yellow;
+    font-weight: bold;
+}
+
